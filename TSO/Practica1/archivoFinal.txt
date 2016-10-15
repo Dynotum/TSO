@@ -1,0 +1,19 @@
+ARCHIVO: programa5
+
+Numero de instrucciones: 7
+Numero de datos: 2
+Direccion inicial de instrucciones: 500
+Direccion inicial de datos: 800
+
+Instrucciones
+500	Cod: 1	Direccion: 800
+501	Cod: 3	Direccion: 800
+502	Cod: 2	Direccion: 800
+503	Cod: 9	Direccion: 000
+504	Cod: 3	Direccion: 800
+505	Cod: 2	Direccion: 800
+506	Cod: 9	Direccion: 000
+
+Datos
+800	Cod: 0003
+801	Cod: 0002

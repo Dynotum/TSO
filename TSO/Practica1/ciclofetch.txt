@@ -1,0 +1,19 @@
+Archivo:_________
+
+No. de instrucciones: 6
+No. de datos: 2
+Dirección inicial de instrucciones:50
+Dirección inicial de datos: 100
+
+Instrucciones
+50 Cod: 1     Dir: 100
+51 Cod: 4     Dir: 101
+52 Cod: 8     Dir: 100
+53 Cod: 3     Dir: 100
+54 Cod: 7     Dir: 200
+55 Cod: 2     Dir: 100
+
+Datos
+100 Valor:  0008
+101 Valor:  0005
+

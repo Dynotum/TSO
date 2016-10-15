@@ -1,0 +1,16 @@
+Numero de instrucciones: 6
+Numero de datos: 2
+Direccion inicial de instrucciones: 50
+Direccion inicial de datos: 100
+
+Instrucciones
+50	Cod: 1	Direccion: 100
+51	Cod: 4	Direccion: 101
+52	Cod: 8	Direccion: 100
+53	Cod: 3	Direccion: 100
+54	Cod: 7	Direccion: 200
+55	Cod: 2	Direccion: 100
+
+Datos
+100	Cod: 0008
+101	Cod: 0005
